@@ -6,7 +6,7 @@ metadata:
 spec:
   project: app1-project
   source:
-    repoURL: https://github.com/deveshparashar/argocd-platform-config.git
+    repoURL: https://github.com/deveshparashar/app1-backend-config.git
     targetRevision: HEAD
     path: backend
   destination:
